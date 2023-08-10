@@ -1,0 +1,7 @@
+login apis for seamless logins
+eg wen otp apis
+web share apis
+web OTP apis
+Web passkeys Api
+web Beacons Api
+sfc stateles functonal component
